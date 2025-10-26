@@ -1,7 +1,7 @@
 /.metadata/
 
 /build/
-/.classpath
-/.project
+.classpath
+.project
 /.settings/
 .project
